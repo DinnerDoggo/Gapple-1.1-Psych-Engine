@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"badai"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

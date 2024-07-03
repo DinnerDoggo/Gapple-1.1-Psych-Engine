@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				91976.0479041916,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"recovered-project-2"
+					]
+				]
+			],
+			[
+				173892.215568862,
+				[
+					[
+						"Change Character",
+						"dad",
+						"recovered-3"
+					]
+				]
+			]
+		]
+	}
+}

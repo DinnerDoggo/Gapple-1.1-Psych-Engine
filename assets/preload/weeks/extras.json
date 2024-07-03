@@ -1,0 +1,140 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sugar Rush",
+			"bandu",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Origin",
+			"bandu-origin",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Metallic",
+			"ringi",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Strawberry",
+			"bambom",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Keyboard",
+			"bendu",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Ugh",
+			"bandu-origin",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Cycles",
+			"sart-producer",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Thunderstorm",
+			"dave",
+			[
+				80,
+				93,
+				253
+			]
+		],
+		[
+			"Wheels",
+			"wheels",
+			[
+				80,
+				93,
+				253
+			]
+		],
+		[
+			"Dave X Bambi Shipping Cute",
+			"dave",
+			[
+				80,
+				93,
+				253
+			]
+		],
+		[
+			"Recovered Project",
+			"recovered",
+			[
+				80,
+				93,
+				253
+			]
+		],
+		[
+			"Sart Producer",
+			"sart-producer",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Old Strawberry",
+			"bambom",
+			[
+				0,
+				195,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
