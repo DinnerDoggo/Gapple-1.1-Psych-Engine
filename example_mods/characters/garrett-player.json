@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				102,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-44,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LEFT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "dave/garrett_algebra",
+	"position": [
+		-60,
+		60
+	],
+	"healthicon": "garrett",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		253,
+		63
+	],
+	"camera_position": [
+		260,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

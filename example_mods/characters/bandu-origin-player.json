@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-191
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-266,
+				-120
+			],
+			"anim": "fuck",
+			"fps": 24,
+			"name": "FUCK",
+			"indices": []
+		},
+		{
+			"offsets": [
+				156,
+				-84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-58,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bambi/bandu_origin",
+	"position": [
+		-450,
+		-180
+	],
+	"healthicon": "bandu-origin",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		161,
+		90
+	],
+	"camera_position": [
+		160,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

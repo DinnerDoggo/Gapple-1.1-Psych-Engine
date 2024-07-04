@@ -46,13 +46,13 @@ class BaseOptionsMenu extends MusicBeatSubstate
 
 	public static var bgPaths:Array<String> = 
 	[
-		'backgrounds/biorange',
-		'backgrounds/cudroid',
-		'backgrounds/dreambean',
-		'backgrounds/roflcopter',
-		'backgrounds/seth',
-		'backgrounds/vio',
-		'backgrounds/zevisly'
+		'backgrounds/mamakotomi',
+		'backgrounds/mantis',
+		'backgrounds/morie',
+		'backgrounds/Olyantwo',
+		'backgrounds/SUSSUS AMOGUS',
+		'backgrounds/SwagnotrllyTheMod',
+		'backgrounds/T5mpler'
 	];
 
 	public function new()

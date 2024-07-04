@@ -101,7 +101,7 @@ class FreeplayState extends MusicBeatState
 			}
 		}*/
 
-		bg = new FlxSprite().loadGraphic(Paths.image('backgrounds/cudroid'));
+		bg = new FlxSprite().loadGraphic(Paths.image('backgrounds/T5mpler'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
 		bg.screenCenter();

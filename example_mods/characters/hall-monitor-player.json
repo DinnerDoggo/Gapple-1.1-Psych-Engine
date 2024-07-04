@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gdj"
+		},
+		{
+			"offsets": [
+				270,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				64,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				536,
+				285
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				269,
+				402
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "dave/HALL_MONITOR",
+	"position": [
+		100,
+		180
+	],
+	"healthicon": "hall-monitor",
+	"flip_x": false,
+	"healthbar_colors": [
+		7,
+		200,
+		0
+	],
+	"camera_position": [
+		600,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

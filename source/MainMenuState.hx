@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '1.2'; //This is also used for Discord RPC
+	public static var psychEngineVersion:String = '1.1'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -45,13 +45,13 @@ class MainMenuState extends MusicBeatState
 
 		public static var bgPaths:Array<String> = 
 	[
-		'backgrounds/biorange',
-		'backgrounds/cudroid',
-		'backgrounds/dreambean',
-		'backgrounds/roflcopter',
-		'backgrounds/seth',
-		'backgrounds/vio',
-		'backgrounds/zevisly'
+		'backgrounds/mamakotomi',
+		'backgrounds/mantis',
+		'backgrounds/morie',
+		'backgrounds/Olyantwo',
+		'backgrounds/SUSSUS AMOGUS',
+		'backgrounds/SwagnotrllyTheMod',
+		'backgrounds/T5mpler'
 	];
 
 	var debugKeys:Array<FlxKey>;
